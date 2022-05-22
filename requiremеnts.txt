@@ -1,0 +1,6 @@
+json
+requests
+Pillow
+google #pip install --upgrade google-api-python-client
+tkinter
+vk_api

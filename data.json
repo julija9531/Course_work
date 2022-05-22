@@ -1,0 +1,37 @@
+{
+ "vk": [
+  {
+   "first_name": "Михаил",
+   "last_name": "Сколов",
+   "user_id": 552934290,
+   "albums_list": [
+    {
+     "album_title": "Фотографии_профиля",
+     "album_id": "profile",
+     "photos_list": [
+      {
+       "file_name": "17.jpg",
+       "size": "400X400"
+      },
+      {
+       "file_name": "12.jpg",
+       "size": "800X800"
+      },
+      {
+       "file_name": "6.jpg",
+       "size": "600X800"
+      },
+      {
+       "file_name": "11_06.07.2020_1.jpg",
+       "size": "600X800"
+      },
+      {
+       "file_name": "11_06.07.2020_2.jpg",
+       "size": "776X1080"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
